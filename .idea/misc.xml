@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.168" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.168" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.144" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/drawable/ic_launcher_background.xml" value="0.168" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/about.xml" value="0.20520833333333333" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/activity_maps_myloc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/activity_maps_resto.xml" value="0.20520833333333333" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/activity_welcome.xml" value="0.20520833333333333" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/maps_resto.xml" value="1.4592592592592593" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/profile.xml" value="0.264" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/welcome1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/welcome2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/layout/welcome3.xml" value="0.264" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1745" />
+        <entry key="..\:/Muhammad Idris Merdefi/1.Kuliah/Semester 6/Alat komputasi Bergerak/Tugas Sensor 2022 AKB IF2 10119084/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1745" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
